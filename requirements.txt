@@ -1,0 +1,4 @@
+aiogram>=3.7,<4
+# Ixtiyoriy: AI orqali "Gamma" uslubidagi reja yaratish uchun
+anthropic>=0.40
+ 
